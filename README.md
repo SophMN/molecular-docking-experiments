@@ -7,7 +7,9 @@ in the binding pocket of a receptor and predict the binding affinity between the
 ##Experiment 1: Redocking of imatinib to mouse c-Abl kinase protein
 
 ###Background
-This project aims to 
+
+This project aims to
+ 
 Crystal structure of the mouse c-Abl kinase protein in complex with imatinib (Accession ID: 1IEP): https://www.rcsb.org/structure/1IEP
 Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
 
