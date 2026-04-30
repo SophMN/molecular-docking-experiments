@@ -32,12 +32,15 @@ Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
 
 ### Results
 
-Imatinib (yellow) bound to one of the original binding sites on the mouse c-Abl kinase protein (cyan) after redocking. The hydrogen bonds are highlighted in blue dashed lines.
+Visual comparison showed that the docked ligand adopts a similar orientation to the crystallized imatinib, indicating that the docking protocol was able to reproduce the experimentally observed binding mode on one of the binding sites. \
+The best docking pose had a binding affinity of -13.01 kcal/mol. \
+Hydrogen bond analysis revealed interactions between imatinib and residues in the binding pocket, supporting the stability of the predicted complex. \
+Overall, these results suggest that the molecular docking workflow used is reliable for modeling ligand-receptor interactions. \ 
 
 ![Mouse c-Abl kinase protein with imatinib bound after redocking](imatinib_mouse_cAbl_kinase/images/redocking_results_ligand_binding_site.png)
 
-Original crystal structure of c-Abl kinase protein with imatinib bound at two sites (green)
+Figure 1: Imatinib (yellow) bound to one of the original binding sites on the mouse c-Abl kinase protein (cyan) after redocking with hydrogen bonds highlighted in blue dashed lines.
 
 ![Initial crystal structure of c-Abl kinase protein (cyan) with the ligand bound (green)](imatinib_mouse_cAbl_kinase/images/c-abl_kinase_crystal.png) 
 
-
+Fig. 2: Original crystal structure of c-Abl kinase protein with imatinib bound at two sites (green) 
