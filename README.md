@@ -31,7 +31,11 @@ Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
 
 ### Results
 
-Original crystal structure of c-Abl kinase protein (cyan) with imatinib bound (green)
+Imatinib (yellow) bound to one of the original binding sites on the mouse c-Abl kinase protein after redocking. The hydrogen bonds are highlighted in blue dashed lines.
+
+![Mouse c-Abl kinase protein with imatinib bound after redocking](imatinib_mouse_cAbl_kinase/images/redocking_results_ligand_binding_site.png)
+
+Original crystal structure of c-Abl kinase protein (cyan) with imatinib bound at two sites (green)
 
 ![Initial crystal structure of c-Abl kinase protein (cyan) with the ligand bound (green)](imatinib_mouse_cAbl_kinase/images/c-abl_kinase_crystal.png) 
 
