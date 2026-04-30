@@ -35,7 +35,7 @@ Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
 Visual comparison showed that the docked ligand adopts a similar orientation to the crystallized imatinib, indicating that the docking protocol was able to reproduce the experimentally observed binding mode on one of the binding sites. \
 The best docking pose had a binding affinity of -13.01 kcal/mol. \
 Hydrogen bond analysis revealed interactions between imatinib and residues in the binding pocket, supporting the stability of the predicted complex. \
-Overall, these results suggest that the molecular docking workflow used is reliable for modeling ligand-receptor interactions. \ 
+Overall, these results suggest that the molecular docking workflow used is reliable for modeling ligand-receptor interactions. 
 
 ![Mouse c-Abl kinase protein with imatinib bound after redocking](imatinib_mouse_cAbl_kinase/images/redocking_results_ligand_binding_site.png)
 
