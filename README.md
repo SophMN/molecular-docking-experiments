@@ -2,6 +2,7 @@
 
 Molecular docking modeling technique that studies how two or more molecular structures fit together. \
 It predicts how a receptor molecule (e.g. protein) interacts with and binds to a ligand (e.g. small molecule or a drug). \
+
 Docking aims to identify the correct poses of ligands in the binding pocket of a receptor and predict the binding affinity between the receptor and the ligand.
 
 ## Experiment 1: Redocking of imatinib to mouse c-Abl kinase protein
@@ -31,11 +32,11 @@ Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
 
 ### Results
 
-Imatinib (yellow) bound to one of the original binding sites on the mouse c-Abl kinase protein after redocking. The hydrogen bonds are highlighted in blue dashed lines.
+Imatinib (yellow) bound to one of the original binding sites on the mouse c-Abl kinase protein (cyan) after redocking. The hydrogen bonds are highlighted in blue dashed lines.
 
 ![Mouse c-Abl kinase protein with imatinib bound after redocking](imatinib_mouse_cAbl_kinase/images/redocking_results_ligand_binding_site.png)
 
-Original crystal structure of c-Abl kinase protein (cyan) with imatinib bound at two sites (green)
+Original crystal structure of c-Abl kinase protein with imatinib bound at two sites (green)
 
 ![Initial crystal structure of c-Abl kinase protein (cyan) with the ligand bound (green)](imatinib_mouse_cAbl_kinase/images/c-abl_kinase_crystal.png) 
 
