@@ -31,6 +31,6 @@ Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
 
 ### Results
 
-![Initial crystal structure of c-Abl kinase protein (cyan) with the ligand bound (green)](/home/sophia/molecular_docking/imatinib_mouse_cAbl_kinase/images/c-abl_kinase_crystal.png) 
+![Initial crystal structure of c-Abl kinase protein (cyan) with the ligand bound (green)](imatinib_mouse_cAbl_kinase/images/c-abl_kinase_crystal.png) 
 
 
