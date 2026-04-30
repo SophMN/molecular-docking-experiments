@@ -8,9 +8,29 @@ in the binding pocket of a receptor and predict the binding affinity between the
 
 ### Background
 
-This project aims to
+This project aims to reproduce the binding of **imatinib**, a tyrosine kinase inhibitor, to the **mouse c-Abl kinase protein** using molecular docking.
+
+### Structural data sources 
  
-Crystal structure of the mouse c-Abl kinase protein in complex with imatinib (Accession ID: 1IEP): https://www.rcsb.org/structure/1IEP \
+Crystal structure of the mouse c-Abl kinase protein in complex with imatinib (PDB ID: 1IEP): https://www.rcsb.org/structure/1IEP
+
 Imatinib structure from PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/5291
+
+### Workflow
+
+- Prepared the protein by removing the co-crystallized ligand and water molecules.
+- Prepared imatinib as a flexible ligand.
+- Performed docking with Autodock Vina.
+- Visualised the binding interactions and compared.
+- Compared the docked pose of the ligand with the initial crystal structure.
+
+### Tools
+- ChimeraX: used for visualisation and removal of ligand and water from the protein.
+- Meeko: protein and ligand prep as well as file conversion.
+- Autodock Vina: redocking.
+
+### Results
+
+![Initial crystal structure of c-Abl kinase protein (cyan) with the ligand bound (green)](/home/sophia/molecular_docking/imatinib_mouse_cAbl_kinase/images/c-abl_kinase_crystal.png) 
 
 
